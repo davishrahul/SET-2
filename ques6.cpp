@@ -20,7 +20,7 @@ int main()
         }
         if(count==2)
             {
-                cout<<number<<"\t";
+                cout<<number<<" ";
             }
         count=0;             
     }
