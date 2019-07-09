@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//
 int main()
 {
     int number,interval1,interval2,count=0,j=1;
